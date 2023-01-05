@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Klementyna @clemmierose
-- 👀 I’m interested in Mobile Development, Software Engineering, Data Science and Machine Learning.
+- 👀 I’m interested in Web Development, Mobile Development, Data Science and Machine Learning.
 - 🌱 I’m currently learning Machine Learning
 
 
